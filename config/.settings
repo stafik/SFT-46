@@ -1,0 +1,19 @@
+{
+    "username": "pstawinoga@craftware.biz.dev", 
+    "environment": "developer", 
+    "project_name": "SFT-46", 
+    "workspace": "C:\\Users\\XNOTE\\MavensMate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "TSIEROMY0LBYGO3HSY4BT3134DZOWVII", 
+    "metadata_container": "1dc58000000SLisAAG", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
